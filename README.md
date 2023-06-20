@@ -1,7 +1,7 @@
 # 🕵️‍♂️ FraudIP-Infoo
 
 ## Preview
-![image_2023-06-20_16-57-45!](\img\image_2023-06-20_16-57-45.png)
+![image_2023-06-20_16-57-45!](/blob/main/img/image_2023-06-20_16-57-45.png)
 
 ## Requirements
 
