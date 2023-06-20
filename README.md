@@ -29,8 +29,11 @@ https://apkcombo.com/id/termux/com.termux/old-versions/0.119.1/
 
 ## Tambahan
 Cek score fraud ip via www.scamalytics.com
+
 Untuk Hasil lebih optimal bisa menggunakan API dari Website Scamalytics
+
 Modul included, namun jika blm ada modul yg terinstall bisa install manual
+
 pip install "nama modul" ---> hilangkan tanda petik
 
 
