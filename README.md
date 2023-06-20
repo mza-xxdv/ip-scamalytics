@@ -23,8 +23,9 @@ https://apkcombo.com/id/termux/com.termux/old-versions/0.119.1/
 6. cd /storage/emulated/0
 7. git clone https://github.com/mza-xxdv/ip-scamalytics.git
 8. cd ip-scamalytics
-9. pip install -r requirements.txt
-10. python ip-scamalytics.py
+9. ls
+10. pip install -r requirements.txt
+11. python ip-scamalytics.py
 
 
 ## Tambahan
